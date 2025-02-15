@@ -1,8 +1,8 @@
 # Ducc-it
 
-Made by @Dongathan-Jong
-Repo link: https://github.com/Dongathan-Jong/Ducc-it
-Total hours: 1
+Made by @Dongathan-Jong  
+Repo link: https://github.com/Dongathan-Jong/Ducc-it  
+Total hours: 1  
 
 ### Day 1 - 2/15/2025 - 12:02 PM
 
