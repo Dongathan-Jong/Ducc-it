@@ -1,4 +1,9 @@
 # Ducc-it
+
+Made by @Dongathan-Jong
+Repo link: https://github.com/Dongathan-Jong/Ducc-it
+Total hours: 1
+
 ### Day 1 - 2/15/2025 - 12:02 PM
 
 I want to lay some ground rules down for what this printer can do:
