@@ -70,3 +70,12 @@ I have worked a little more on the CAD, hope to get the mechanics and everything
 Here is the CAD progress:
 <img src="https://github.com/user-attachments/assets/18ab51fa-7a8f-4070-ad20-3bb4b8cdb752"
      alt="Day 3 cad progress"/>
+
+### Day 4, 5, 6, 7 - 3/1/2025 to 3/17/2025
+
+School, Scrapyard, HQ, everythings been putting this on the backburner, but I am finally here to continue on the writeup! I did quite a lot of work in between my trips to hq fulfilling hackpad, texas for scrapyard, and others, and have finished the hotend assembly, updating the spreadsheet with everything needed, and have everything done except for the electronics and fan shroud (and the feet but thats not high priority). 
+
+I need to figure out how to make a good looking fan shroud since I'm pretty new to fusion, definitely will figure that out soon. As per now, I have quite a lot of stuff figured out, this is basically the final stretch!
+
+<img src="https://github.com/user-attachments/assets/b7593ea6-c7cc-43a7-bef1-3798d3698031"
+     alt="Day 4-7 cad progress"/>
