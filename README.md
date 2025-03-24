@@ -21,3 +21,7 @@ The BOM is here: https://docs.google.com/spreadsheets/d/1qOZgMDn6hGFZKtvJTQ3WRMC
 
 Check out my log [here](https://github.com/Dongathan-Jong/Ducc-it/blob/main/Duccbook.md)! 
 
+### To Do
+
+- Create a servo mount for the auto-ejecting print mount
+- Create the auto-ejecting macro on klipper
