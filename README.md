@@ -25,3 +25,6 @@ Check out my log [here](https://github.com/Dongathan-Jong/Ducc-it/blob/main/Ducc
 
 - Create a servo mount for the auto-ejecting print mount
 - Create the auto-ejecting macro on klipper
+
+
+*Please note that the step file in the repository does NOT include the fans + extruder, this is due to GitHub's size limit on big files.*
