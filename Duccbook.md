@@ -119,7 +119,20 @@ I got quite a lot done today (4/2/2025), finished building all the axes without 
 Built the 2020 extrusion base and attached everything together!
 
 <img src="https://github.com/user-attachments/assets/340130ce-0e56-45e0-9dc3-6ac6001b07ae"
-     alt="Axes built"/>
+     alt="Attached stuff together!"/>
 
 Thats all for now, signing off!
 
+### Day 13 - 4/8/2025 (4 Hours)
+
+Today I realised I bought a MGN12H rail instead of the MGN12C rail... That meant that I had to redesign the WHOLE hotend to fit the proper block. I spent WAY too long redoing this, and haven't even gotten to the fan duct. 
+
+<img src="https://github.com/user-attachments/assets/1048c0a8-7d65-42ea-871a-1a5587edfafd"
+     alt="Created new hotend"/>
+
+I also realised my linear rail vertical was SUPER unstable, so I reinforced it with 2020 extrusion 90 degree mounts I created myself on Tinkercad.
+
+<img src="https://github.com/user-attachments/assets/57fe77d1-ee2f-47d0-9552-4bbef96d2f96"
+     alt="Fixed stabilization"/>
+
+     
