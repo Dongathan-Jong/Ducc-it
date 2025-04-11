@@ -153,4 +153,5 @@ The bed carriage is on now! I had to redesign this because I bought a 180x180 be
 <img src="https://github.com/user-attachments/assets/96ca4b57-4331-4ed6-b58a-882922f1f14e"
      alt="Fixed stabilization"/>
 
+For now, I am just waiting on the mobo to come, so I can start wiring everything together! Can't wait.
 
