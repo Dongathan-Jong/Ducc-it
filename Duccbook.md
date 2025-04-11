@@ -2,7 +2,7 @@
 
 Made by: @Dongathan-Jong  
 Repository link: https://github.com/Dongathan-Jong/Ducc-it  
-Total hours so far: 67
+Total hours so far: 81
 
 BOM: [here](https://docs.google.com/spreadsheets/d/1qOZgMDn6hGFZKtvJTQ3WRMCq_ESmatV1Npfq33ltyqs/edit?usp=sharing)
 
