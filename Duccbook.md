@@ -162,7 +162,7 @@ Welp, it's been a LONG 2 days. After the last entry in this journal, I started t
 <img src="https://github.com/user-attachments/assets/3a11cf3d-6564-4eec-a44b-3655e4832918"
      alt="Fixed stabilization"/>
 
-Along with that, I designed the belt idler for the Y axis, with it working amazing. I belted the bed on as well, and it works amazing. 
+Along with that, I designed the belt idler for the Y axis, with it working amazing. I belted the bed on as well.
 
 <img src="https://github.com/user-attachments/assets/a4c30162-e298-412b-b658-f1748310c98d"
      alt="Fixed stabilization"/>
