@@ -28,3 +28,11 @@ Check out my log [here](https://github.com/Dongathan-Jong/Ducc-it/blob/main/Ducc
 
 
 *Please note that the step file in the repository does NOT include the fans + extruder, this is due to GitHub's size limit on big files.*
+
+### Main Troubles
+
+This was my first time using f360 for actual CAD work! It took a little while as the first CAD software I used and stuck w/ was Tinkercad, a pretty beginner website. Throughout building the printer, I found that these motor mounts aren't even bent to a proper 90 deg! I ended up creating my own motor mounts 3d printed, as for if they work well, not too sure if that will happen! 
+
+### Tuning / Upgrades
+
+As the goal was to be under $300 USD, but given klipper's amazing support, an ADXL sensor can be used to tune the X and Y axes. As for upgrades, many can be made, starting off with bed levelling. Currently it uses a Z limit switch with no probing and manual bed levelling screws, but it seems to work pretty well. 
